@@ -1,0 +1,13 @@
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.exe
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.deps.json
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.runtimeconfig.json
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.runtimeconfig.dev.json
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.dll
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\bin\Debug\netcoreapp3.1\ParseDocuments.pdb
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.csprojAssemblyReference.cache
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.AssemblyInfoInputs.cache
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.AssemblyInfo.cs
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.csproj.CoreCompileInputs.cache
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.dll
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.pdb
+C:\Users\ACHM\source\repos\ParseDocuments\ParseDocuments\obj\Debug\netcoreapp3.1\ParseDocuments.genruntimeconfig.cache

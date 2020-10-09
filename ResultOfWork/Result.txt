@@ -1,0 +1,82 @@
+По запросу errortestbase найдено 10 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754 
+Текст строки: possible candidates for unreal.sampletest: ue4game.defaulttest ue4game.elementaldemotest ue4game.fortgputestbedperftest epicgame.epicgametestnode editortest.boottest editortest.editortestnode gauntlet.basetest gauntlet.itestnode gauntlet.unrealtestnode`1[tconfigclass] gauntlet.pgonode`1[tconfigclass] gauntlet.unrealtest.errortestbase gauntlet.unrealtest.errortestensure gauntlet.unrealtest.errortestcheck gauntlet.unrealtest.errortestfatal gauntlet.unrealtest.errortestgpf gauntlet.selftest.testunrealbuildparsing gauntlet.selftest.testautoparam gauntlet.selftest.testparamparsing gauntlet.selftest.blank gauntlet.selftest.creategif gauntlet.selftest.orderofopstest gauntlet.selftest.testtargetdevice gauntlet.selftest.testunreallogparserbase gauntlet.selftest.logparsertestgauntletexitsuccess gauntlet.selftest.logparsertestensure gauntlet.selftest.logparsertestassert gauntlet.selftest.logparsertestfatalerror gauntlet.selftest.logparsertestexception gauntlet.selftest.logparsertestrequestexit gauntlet.selftest.logparsertestchannels gauntlet.selftest.logparsertestwarnings gauntlet.selftest.logparsertesterrors gauntlet.selftest.logparserperfsummary gauntlet.selftest.testorionshortsologame gauntlet.selftest.testunrealinstallandrunbase gauntlet.selftest.testunrealsession gauntlet.selftest.testunrealoptions gauntlet.selftest.testunrealbase gauntlet.selftest.testunrealbuildsource gauntlet.selftest.basetestnode gauntlet.selftest.testtargetdevicemac gauntlet.selftest.testunrealinstallthenrunmac gauntlet.selftest.testtargetdevicewindows gauntlet.automation.unreal.sampletest
+По запросу errortestensure найдено 10 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754 
+Текст строки: possible candidates for unreal.sampletest: ue4game.defaulttest ue4game.elementaldemotest ue4game.fortgputestbedperftest epicgame.epicgametestnode editortest.boottest editortest.editortestnode gauntlet.basetest gauntlet.itestnode gauntlet.unrealtestnode`1[tconfigclass] gauntlet.pgonode`1[tconfigclass] gauntlet.unrealtest.errortestbase gauntlet.unrealtest.errortestensure gauntlet.unrealtest.errortestcheck gauntlet.unrealtest.errortestfatal gauntlet.unrealtest.errortestgpf gauntlet.selftest.testunrealbuildparsing gauntlet.selftest.testautoparam gauntlet.selftest.testparamparsing gauntlet.selftest.blank gauntlet.selftest.creategif gauntlet.selftest.orderofopstest gauntlet.selftest.testtargetdevice gauntlet.selftest.testunreallogparserbase gauntlet.selftest.logparsertestgauntletexitsuccess gauntlet.selftest.logparsertestensure gauntlet.selftest.logparsertestassert gauntlet.selftest.logparsertestfatalerror gauntlet.selftest.logparsertestexception gauntlet.selftest.logparsertestrequestexit gauntlet.selftest.logparsertestchannels gauntlet.selftest.logparsertestwarnings gauntlet.selftest.logparsertesterrors gauntlet.selftest.logparserperfsummary gauntlet.selftest.testorionshortsologame gauntlet.selftest.testunrealinstallandrunbase gauntlet.selftest.testunrealsession gauntlet.selftest.testunrealoptions gauntlet.selftest.testunrealbase gauntlet.selftest.testunrealbuildsource gauntlet.selftest.basetestnode gauntlet.selftest.testtargetdevicemac gauntlet.selftest.testunrealinstallthenrunmac gauntlet.selftest.testtargetdevicewindows gauntlet.automation.unreal.sampletest
+По запросу errortestcheck найдено 10 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754 
+Текст строки: possible candidates for unreal.sampletest: ue4game.defaulttest ue4game.elementaldemotest ue4game.fortgputestbedperftest epicgame.epicgametestnode editortest.boottest editortest.editortestnode gauntlet.basetest gauntlet.itestnode gauntlet.unrealtestnode`1[tconfigclass] gauntlet.pgonode`1[tconfigclass] gauntlet.unrealtest.errortestbase gauntlet.unrealtest.errortestensure gauntlet.unrealtest.errortestcheck gauntlet.unrealtest.errortestfatal gauntlet.unrealtest.errortestgpf gauntlet.selftest.testunrealbuildparsing gauntlet.selftest.testautoparam gauntlet.selftest.testparamparsing gauntlet.selftest.blank gauntlet.selftest.creategif gauntlet.selftest.orderofopstest gauntlet.selftest.testtargetdevice gauntlet.selftest.testunreallogparserbase gauntlet.selftest.logparsertestgauntletexitsuccess gauntlet.selftest.logparsertestensure gauntlet.selftest.logparsertestassert gauntlet.selftest.logparsertestfatalerror gauntlet.selftest.logparsertestexception gauntlet.selftest.logparsertestrequestexit gauntlet.selftest.logparsertestchannels gauntlet.selftest.logparsertestwarnings gauntlet.selftest.logparsertesterrors gauntlet.selftest.logparserperfsummary gauntlet.selftest.testorionshortsologame gauntlet.selftest.testunrealinstallandrunbase gauntlet.selftest.testunrealsession gauntlet.selftest.testunrealoptions gauntlet.selftest.testunrealbase gauntlet.selftest.testunrealbuildsource gauntlet.selftest.basetestnode gauntlet.selftest.testtargetdevicemac gauntlet.selftest.testunrealinstallthenrunmac gauntlet.selftest.testtargetdevicewindows gauntlet.automation.unreal.sampletest
+По запросу errortestfatal найдено 10 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754 
+Текст строки: possible candidates for unreal.sampletest: ue4game.defaulttest ue4game.elementaldemotest ue4game.fortgputestbedperftest epicgame.epicgametestnode editortest.boottest editortest.editortestnode gauntlet.basetest gauntlet.itestnode gauntlet.unrealtestnode`1[tconfigclass] gauntlet.pgonode`1[tconfigclass] gauntlet.unrealtest.errortestbase gauntlet.unrealtest.errortestensure gauntlet.unrealtest.errortestcheck gauntlet.unrealtest.errortestfatal gauntlet.unrealtest.errortestgpf gauntlet.selftest.testunrealbuildparsing gauntlet.selftest.testautoparam gauntlet.selftest.testparamparsing gauntlet.selftest.blank gauntlet.selftest.creategif gauntlet.selftest.orderofopstest gauntlet.selftest.testtargetdevice gauntlet.selftest.testunreallogparserbase gauntlet.selftest.logparsertestgauntletexitsuccess gauntlet.selftest.logparsertestensure gauntlet.selftest.logparsertestassert gauntlet.selftest.logparsertestfatalerror gauntlet.selftest.logparsertestexception gauntlet.selftest.logparsertestrequestexit gauntlet.selftest.logparsertestchannels gauntlet.selftest.logparsertestwarnings gauntlet.selftest.logparsertesterrors gauntlet.selftest.logparserperfsummary gauntlet.selftest.testorionshortsologame gauntlet.selftest.testunrealinstallandrunbase gauntlet.selftest.testunrealsession gauntlet.selftest.testunrealoptions gauntlet.selftest.testunrealbase gauntlet.selftest.testunrealbuildsource gauntlet.selftest.basetestnode gauntlet.selftest.testtargetdevicemac gauntlet.selftest.testunrealinstallthenrunmac gauntlet.selftest.testtargetdevicewindows gauntlet.automation.unreal.sampletest
+По запросу errortestgpf найдено 10 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754 
+Текст строки: possible candidates for unreal.sampletest: ue4game.defaulttest ue4game.elementaldemotest ue4game.fortgputestbedperftest epicgame.epicgametestnode editortest.boottest editortest.editortestnode gauntlet.basetest gauntlet.itestnode gauntlet.unrealtestnode`1[tconfigclass] gauntlet.pgonode`1[tconfigclass] gauntlet.unrealtest.errortestbase gauntlet.unrealtest.errortestensure gauntlet.unrealtest.errortestcheck gauntlet.unrealtest.errortestfatal gauntlet.unrealtest.errortestgpf gauntlet.selftest.testunrealbuildparsing gauntlet.selftest.testautoparam gauntlet.selftest.testparamparsing gauntlet.selftest.blank gauntlet.selftest.creategif gauntlet.selftest.orderofopstest gauntlet.selftest.testtargetdevice gauntlet.selftest.testunreallogparserbase gauntlet.selftest.logparsertestgauntletexitsuccess gauntlet.selftest.logparsertestensure gauntlet.selftest.logparsertestassert gauntlet.selftest.logparsertestfatalerror gauntlet.selftest.logparsertestexception gauntlet.selftest.logparsertestrequestexit gauntlet.selftest.logparsertestchannels gauntlet.selftest.logparsertestwarnings gauntlet.selftest.logparsertesterrors gauntlet.selftest.logparserperfsummary gauntlet.selftest.testorionshortsologame gauntlet.selftest.testunrealinstallandrunbase gauntlet.selftest.testunrealsession gauntlet.selftest.testunrealoptions gauntlet.selftest.testunrealbase gauntlet.selftest.testunrealbuildsource gauntlet.selftest.basetestnode gauntlet.selftest.testtargetdevicemac gauntlet.selftest.testunrealinstallthenrunmac gauntlet.selftest.testtargetdevicewindows gauntlet.automation.unreal.sampletest
+По запросу errors найдено 20 строк(и):
+2710
+2979
+3243
+3453
+3697
+3924
+4135
+4320
+4563
+4754
+5099
+5103
+5125
+5233
+5237
+5278 
+Текст строки:   fatalerrors: 0, ensures: 2, errors: 53, warnings: 161, hash: de8c21d156e0b759ff4a6a277ad76117
+По запросу error_testfailure найдено 2 строк(и):
+4999
+5164 
+Текст строки: automationtool exiting with exitcode=152 (error_testfailure)
